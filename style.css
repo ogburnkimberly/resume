@@ -23,7 +23,7 @@ h3 {
 
 main { 
     display: grid;
-    grid-template-columns: 45% 55%;
+    grid-template-columns: 25% 65%;
     margin-top: 3em;
 }
 header {
